@@ -3,7 +3,7 @@
 #String has same properties as list
 
 #INDEXING A STRING
-a = "NIKHILWAGHMODE"
+a = "XYZ"
 print(len(a)) #this is lenght of string
 print("THIS IS INDEX:", a[2])
 list1 = ["skydiving", 69, True]
